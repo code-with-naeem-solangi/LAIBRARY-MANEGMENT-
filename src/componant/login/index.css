@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: url(./Blog-page-images-11.jpg);
+  background-size: cover;
+}
+
+.foam-containr {
+  width: 400px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 40px;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(255, 255, 255, 0.2);
+  box-shadow: 0px 8px 32px 0 rgb(0, 0, 255, 0.33);
+}
+
+.centr {
+  text-align: center;
+}
+.ant-form-item .ant-form-item-label >label{
+  color: black;
+}
+.ant-divider-horizontal.ant-divider-with-text {
+  color: white;
+}
+.size {
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.pointr{
+cursor: pointer;
+
+}

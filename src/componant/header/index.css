@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(255, 255, 255, 0.2);
+    box-shadow: 0px 8px 32px 0 rgb(0, 0, 255, 0.33);
+    color: white;
+  }
+  .pdng {
+    margin-top: 20px;
+  }
+  .css-dev-only-do-not-override-xu9wm8 {
+    margin-right: 5px;
+  }

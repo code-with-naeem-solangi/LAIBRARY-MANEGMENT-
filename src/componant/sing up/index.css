@@ -1,0 +1,42 @@
+body {
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(255, 255, 255, 0.2);
+    box-shadow: 0px 8px 32px 0 rgb(0, 0, 255, 0.33);
+    color: white;
+  }
+ 
+  
+  .foam-containr {
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(255, 255, 255, 0.2);
+    box-shadow: 0px 8px 32px 0 rgb(0, 0, 255, 0.33);
+  }
+  
+  .css-dev-only-do-not-override-zcfrx9.ant-btn-primary{
+    margin-bottom: 10px;
+    margin-right: 5px;
+    
+
+  }
+  .css-dev-only-do-not-override-zcfrx9.ant-btn-default{
+    margin-bottom: 10px;
+    margin-right: 5px;
+    
+
+  }
+  .centr {
+    text-align: center;
+  }
+ 
+

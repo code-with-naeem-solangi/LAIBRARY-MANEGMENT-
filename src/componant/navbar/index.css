@@ -1,0 +1,9 @@
+.backr{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid rgb(255, 255, 255, 0.2);;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 10px;
+}

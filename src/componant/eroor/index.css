@@ -1,0 +1,32 @@
+.contrl{
+    background-color: rgb(155, 74, 74);
+    height: 100vh;
+    
+}
+.pdg{
+   margin: auto;
+    font-size: 200px;
+    color: wheat;
+    text-align: center;
+    
+}
+.pdgt{
+    font-size: 80px;
+    text-align: center;
+    color: wheat;
+    
+}
+.bttn{
+    padding: 20px;
+    font-size: 50px;
+    margin-left: 30%;
+    background: transparent;
+    border-color: white;
+    color: white;
+}
+.spcl{
+   color: white;
+   font-size: 50px;
+   text-decoration: none;
+   margin-left: 30%;
+}
